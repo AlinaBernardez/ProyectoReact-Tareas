@@ -1,4 +1,4 @@
-# ProyectoReact-Tareas
+## ProyectoReact-Tareas
 
 Proyecto de listado de tareas: 
 - Añadir
