@@ -4,13 +4,15 @@ import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap-icons/font/bootstrap-icons.css'
 //OJO los estilos propios deben ir debajo de bootstrap, para que no los pise!!!
 import './index.css';
-import App from './App';
+// import App from './App';
 import reportWebVitals from './reportWebVitals';
+import AppRouting from './AppRoutingOne';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    {/* <App /> */}
+    <AppRouting/>
   </React.StrictMode>
 );
 
